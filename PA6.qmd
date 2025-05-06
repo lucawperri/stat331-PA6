@@ -1,8 +1,10 @@
 ---
 title: "Practice Activity 6"
+author: "Alex, Luca, Kenneth, and Riley"
 format: html
 editor: visual
 embed-resources: true
+author: "Riley McArdle, Kenneth Wu, Luca Perri, Alex Dieker" 
 ---
 
 ## Quarto
