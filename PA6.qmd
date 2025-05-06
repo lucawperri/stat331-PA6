@@ -3,6 +3,7 @@ title: "Practice Activity 6"
 format: html
 editor: visual
 embed-resources: true
+author: "Riley McArdle, Kenneth Wu, Luca Perri, Alex Dieker" 
 ---
 
 ## Quarto
